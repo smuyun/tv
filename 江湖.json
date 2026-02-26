@@ -2658,6 +2658,20 @@
                 "ratio": 1.8
             }
         },
+                {
+            "key": "csp_XYQHiker_亚洲色吧",
+            "name": "🔞亚洲色吧",
+            "type": 3,
+            "api": "csp_XYQHiker",
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 0,
+            "ext": "./json/亚洲色吧.json",
+            "style": {
+                "type": "rect",
+                "ratio": 1.8
+            }
+        },
         {
             "key": "csp_XYQHiker_朱古力",
             "name": "🔞朱古力",
